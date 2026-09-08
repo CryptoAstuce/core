@@ -1,3 +1,7 @@
+## Parcours francais
+
+Une lecture commentee de Lido (Liquid Staking) en francais, un mecanisme par chapitre, est disponible dans docs/fr/. Le sommaire se trouve dans docs/fr/README.md. Rien n'a ete installe, compile ni execute : ce parcours est purement documentaire.
+
 <div>
     <img alt="Lido" src="https://img.shields.io/badge/v3.0.2-version?label=lido&labelColor=rgb(91%2C%20162%2C%20252)&color=white"/>
     <img alt="GitHub license" src="https://img.shields.io/github/license/lidofinance/lido-dao?labelColor=orange&color=white"/>
